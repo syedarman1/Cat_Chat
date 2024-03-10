@@ -33,13 +33,16 @@ The following EXTRA features are implemented:
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the SnapChat app:
-![sna](https://github.com/syedarman1/CatChat_Unit3/assets/148717758/81c1c3e1-6a03-4105-a57d-b4a5dc9026e6)
+
+![image](https://github.com/syedarman1/CatChat_AND/assets/148717758/2ba4e79b-1659-48b0-9c4b-5597ff21161b)
+
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Proj3](https://github.com/syedarman1/CatChat_Unit3/assets/148717758/5a9cf6f1-9e8c-498c-b1dd-ecb5e64b3e87)
+![Proj3](https://github.com/syedarman1/CatChat_AND/assets/148717758/019484ea-1d8f-4a26-8f5e-4e8e4b4ce30b)
+
 
 
 GIF created with ScreenToGIF
